@@ -4,15 +4,15 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# UFO
+# Serlokas
 
 _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/35-grupe-ufo/
+Site published at: https://front-end-by-eglenem.github.io/3-serlokas/
 
-Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/951399092746092554/404-1.png)
+Design: [3-serlokas](https://i.pinimg.com/474x/66/c5/7b/66c57b9c554cd3f8354e2805b3654df9---page-design-website.jpg)
 
 ## Project features
 
@@ -20,4 +20,4 @@ Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/95139909
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Egle: [Github](https://github.com/eglenem)
